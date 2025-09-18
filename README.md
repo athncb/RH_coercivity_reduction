@@ -28,3 +28,5 @@ Artifacts are written under `out/`. After generation, recompute hashes:
 ```bash
 python scripts/update_hashes.py
 ```
+
+Zenodo DOI : [![DOI](https://zenodo.org/badge/1059098901.svg)](https://doi.org/10.5281/zenodo.17149032)
