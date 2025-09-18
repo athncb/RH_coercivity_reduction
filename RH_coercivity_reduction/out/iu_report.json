@@ -1,0 +1,10 @@
+{
+  "trials": 200,
+  "rq_min": 0.4269286225209756,
+  "rq_max": 0.5980940753235174,
+  "iu_suggested_bounds": [
+    0.4269286225209756,
+    0.5980940753235174
+  ],
+  "note": "Toy bounds only. Replace with analytic constants from Annexes."
+}
