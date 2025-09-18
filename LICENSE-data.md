@@ -24,4 +24,4 @@ Full license text: https://creativecommons.org/licenses/by/4.0/
 Please cite the associated paper when using these data:
 
 > [Author Name], *Reduction of the Riemann Hypothesis to a Single Coercive Inequality (IU)*,
-> Preprint, 2025. DOI: [Zenodo DOI here].
+> Preprint, 2025. DOI: [![DOI](https://zenodo.org/badge/1059098901.svg)](https://doi.org/10.5281/zenodo.17149032).
