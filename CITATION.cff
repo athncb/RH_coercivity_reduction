@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata below."
+title: "Reduction of the Riemann Hypothesis to a Single Coercive Inequality (IU)"
+abstract: >
+  We provide an explicit reduction of the Riemann Hypothesis (RH) to a single
+  coercive inequality (IU) with explicit constants, a constructed anchored kernel,
+  and a quantified resonant test. The repository includes a fully reproducible
+  package (scripts, data, hashes). This is not a proof of RH; it documents
+  an explicit equivalence RH ⇔ (IU) within the stated analytic framework.
+authors:
+  - family-names: Necib
+    given-names: Athman
+    orcid: "https://orcid.org/0009-0008-9267-9589"
+affiliations:
+  - name: Independent Researcher
+repository-code: "https://github.com/athncb/RH_coercivity_reduction"
+url: "https://github.com/athncb/RH_coercivity_reduction"
+keywords:
+  - Riemann Hypothesis
+  - explicit formula
+  - coercive inequality
+  - resonant test
+  - analytic number theory
+  - reproducible research
+version: "v1.0"
+date-released: "2025-09-18"
+license: MIT
+type: software
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.17149032
+preferred-citation:
+  type: article
+  title: "Reduction of the Riemann Hypothesis to a Single Coercive Inequality (IU)"
+  authors:
+    - family-names: Necib
+      given-names: Athman
+  year: 2025
+  doi: 10.5281/zenodo.17149032
+  notes: >
+    Cite the Zenodo concept/version DOI as appropriate. Code and data are archived
+    with the release tagged v1.0.
