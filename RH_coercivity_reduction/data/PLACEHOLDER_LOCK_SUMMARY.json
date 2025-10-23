@@ -1,0 +1,19 @@
+{
+  "archimedean_script_stdout": "[archimedean_bounds] wrote /mnt/data/arch_bounds_scan.csv and /mnt/data/arch_bounds_constants.json\n[archimedean_bounds] C_lower\u2248 13.401343555171788  C_upper\u2248 0.0  (grid: 2049 pts)",
+  "resonant_script_stdout": "[resonant_test_bounds] wrote: /mnt/data/resonant_Q_scan.csv /mnt/data/resonant_amp_threshold.csv /mnt/data/resonant_summary.json\n[resonant_test_bounds] min Q ~ -0.048330968185552804 at {'gamma': 4.0, 'R': 2.0, 'amp': 0.3}",
+  "arch_bounds_constants": {
+    "xi_max": 256.0,
+    "xi_step": 0.25,
+    "grid_points": 2049,
+    "C_lower": 13.401343555171788,
+    "C_upper": 0.0,
+    "inequalities": {
+      "lower": "Re\u03c8 >= log|z| - C_lower/(1+xi^2)",
+      "upper": "Re\u03c8 <= log|z| + C_upper/(1+xi^2)"
+    },
+    "notes": [
+      "Bounds are grid-verified; increase xi_max / refine xi_step to tighten.",
+      "These constants are for the specific archimedean term used in the paper."
+    ]
+  }
+}

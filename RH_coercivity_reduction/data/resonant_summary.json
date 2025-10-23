@@ -1,0 +1,13 @@
+{
+  "min_Q": -0.048330968185552804,
+  "at": {
+    "gamma": 4.0,
+    "R": 2.0,
+    "amp": 0.3
+  },
+  "sigma_z": 0.75,
+  "notes": [
+    "This is a model-based negative bump; amp encodes the hypothetical off-line zero strength.",
+    "If amp_threshold is small across (gamma,R), resonance is an efficient detector."
+  ]
+}

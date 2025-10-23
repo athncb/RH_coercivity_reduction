@@ -1,0 +1,15 @@
+{
+  "xi_max": 256.0,
+  "xi_step": 0.25,
+  "grid_points": 2049,
+  "C_lower": 13.401343555171788,
+  "C_upper": 0.0,
+  "inequalities": {
+    "lower": "Re\u03c8 >= log|z| - C_lower/(1+xi^2)",
+    "upper": "Re\u03c8 <= log|z| + C_upper/(1+xi^2)"
+  },
+  "notes": [
+    "Bounds are grid-verified; increase xi_max / refine xi_step to tighten.",
+    "These constants are for the specific archimedean term used in the paper."
+  ]
+}
