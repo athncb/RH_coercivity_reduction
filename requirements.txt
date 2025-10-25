@@ -1,0 +1,6 @@
+make setup
+make kernel
+make iu
+make arch
+make resonance
+make all
