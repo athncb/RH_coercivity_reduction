@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/1059098901.svg)](https://doi.org/10.5281/zenodo.17149032)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17451166.svg)](https://doi.org/10.5281/zenodo.17451166)
 # Paquet reproductible PCPI–RH
 
 - Scripts: dossier `scripts/`
